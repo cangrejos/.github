@@ -1,4 +1,4 @@
-![cangrejos](profile/profile.png)
+![cangrejos](/profile.png)
 
 <!--
 
